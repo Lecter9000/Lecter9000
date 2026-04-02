@@ -1,6 +1,6 @@
 ## Hi there, I'm Kamil 👋
 
-##🔭 I’m currently working on my degree in Financial Analytics
+##🔭 I’m currently working on my degree in Financial Analytics hoping to refine & utlize toolset from my previous education in Mathematics.
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
