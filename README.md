@@ -1,6 +1,12 @@
 ## Hi there, I'm Kamil 👋
 
-###🔭 I’m currently working on my degree in Financial Analytics hoping to refine & utlize toolset from my previous education in Mathematics.
+### 🚀 Quantitative Finance & AI | Topology & Complex Systems Enthusiast 
+
+I’m currently working on my degree in Financial Analytics hoping to refine & utlize toolset from my previous education in Mathematics.
+
+### 🔭 Current Focus
+* **Project:** Applying **Topological Data Analysis (TDA)** and Takens' Embedding Theorem to detect early warning signals of stock market crashes.
+* **Exploring:** Quantitative Finance, Algorithmic Pricing, and Machine Learning applications in risk management.
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
