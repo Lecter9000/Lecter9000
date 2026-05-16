@@ -5,8 +5,7 @@
 I’m currently working on my degree in Financial Analytics hoping to refine & utlize toolset from my previous education in Mathematics.
 
 ### 🔭 Current Focus
-* **Project:** Applying **Topological Data Analysis (TDA)** and Takens' Embedding Theorem to detect early warning signals of stock market crashes.
-* **Exploring:** Quantitative Finance, Algorithmic Pricing, and Machine Learning applications in risk management.
+
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
@@ -31,6 +30,9 @@ I’m currently working on my degree in Financial Analytics hoping to refine & u
 </p>
 <!--
 **Lecter9000/Lecter9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+* **Project:** Applying **Topological Data Analysis (TDA)** and Takens' Embedding Theorem to detect early warning signals of stock market crashes.
+* **Exploring:** Quantitative Finance, Algorithmic Pricing, and Machine Learning applications in risk management.
 
 Here are some ideas to get you started:
 
